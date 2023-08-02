@@ -3,8 +3,6 @@ pragma solidity ^0.8.0;
 import './ERC20.sol';
 
 // import "hardhat/console.sol";
-
-
 contract Community {
  
     string public CommunityName;

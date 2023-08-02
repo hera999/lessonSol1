@@ -70,6 +70,8 @@ contract ERC20 {
 
 
 }  
+
+ // TASKS 
   //function blanceOf(address _address) public view returns(address)
 
   // 1function name() public view returns(string memory)
